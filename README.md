@@ -1,1 +1,1 @@
-# init-repo-action-test-published
+# init-repo-action-test-template
